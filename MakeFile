@@ -3,7 +3,7 @@ OBJ_DIR = obj
 
 all: directories runtest
 
-build: g++ codefile.cpp
+build: g++ StringUtils.cpp
 
 runtests: $(TARGET)
 	$(TARGET)
