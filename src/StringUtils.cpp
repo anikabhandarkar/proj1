@@ -1,4 +1,9 @@
 #include "StringUtils.h"
+#include <algorithm>
+#include <cctype>
+#include <string>
+#include <vector>
+#include <sstream>
 
 namespace StringUtils{
 
