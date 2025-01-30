@@ -1,5 +1,6 @@
 #include <gtest/gtest.h>
 #include "StringUtils.h"
+#include <algorithm>
 
 TEST(StringUtilsTest, SliceTest){
     
